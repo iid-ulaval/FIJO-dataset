@@ -18,14 +18,11 @@ This repository references the raw and annotated insurance job offer data presen
 
 ```
   @article{
+  title = {“FIJO”: a French Insurance Soft Skill Detection Dataset},
+  author = {Beauchemin, David and Laumonier, Julien and Le Ster, Yvan and Yassine, Marouane},
   journal = {Proceedings of the Canadian Conference on Artificial Intelligence},
   publisher = {Canadian Artificial Intelligence Association (CAIAC)},
-  title = {“FIJO”: a French Insurance Soft Skill Detection Dataset},
-  author = {Beauchemin, David and Laumonier, Julien and Le Ster, Yvan and Yassine Marouane},
-  date = {2021-06-08},
   year = {2022},
-  month = {},
-  day = {},
   }
 ```
 ## Metadata
