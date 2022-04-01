@@ -4,13 +4,13 @@ This repository references the raw and annotated insurance job offer data presen
 
 ## About the dataset
 
-**!!! TODO !!!: METTRE LA DESCRIPTION QU'ON METTRA SUR DATAVERSE**
+This dataset was collected as part of the multidisciplinary project *Femmes face aux défis de la transformation numérique : une étude de cas dans le secteur des assurances* (Women Facing the Challenges of Digital Transformation: A Case Study in the Insurance Sector) at Université Laval, funded by the Future Skills Centre. It includes job offers, in French, from insurance companies between 2009 and 2020.
 
 **!!! TODO !!!: METTRE LES STATS DES DONNÉES ANNOTÉES ET NON ANNOTÉES.**
 
 ## License
 
-**!!! TODO !!!: AJOUTER LA LICENSE**
+This dataset is distributed under license CC BY-SA-NC 4.0
 
 ## Cite this dataset
 
@@ -130,11 +130,11 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
           </tr>
           <tr>
             <td>name</td>
-            <td><code itemprop="name"></code></td>
+            <td><code itemprop="name">CC BY-SA-NC 4.0</code></td>
           </tr>
           <tr>
             <td>url</td>
-            <td><code itemprop="url"></code></td>
+            <td><code itemprop="url">https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</code></td>
           </tr>
         </table>
       </div>
