@@ -1,20 +1,16 @@
 # French Insurance Job Offer dataset
 
-This repository references the raw and annotated insurance job offer data presented in **!!! TODO !!!: CITER L'ARTICLE**. The data is available at **!!! TODO !!!: mettre un lien vers Dataverse**.
+This repository references the raw and annotated insurance job offer data presented in **!!! TODO !!!: CITER L'ARTICLE**. The data is available [here](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/CHUEJM).
 
 ## About the dataset
 
 This dataset was collected as part of the multidisciplinary project *Femmes face aux défis de la transformation numérique : une étude de cas dans le secteur des assurances* (Women Facing the Challenges of Digital Transformation: A Case Study in the Insurance Sector) at Université Laval, funded by the Future Skills Centre. It includes job offers, in French, from insurance companies between 2009 and 2020.
-
-**!!! TODO !!!: METTRE LES STATS DES DONNÉES ANNOTÉES ET NON ANNOTÉES.**
 
 ## License
 
 This dataset is distributed under license CC BY-SA-NC 4.0
 
 ## Cite this dataset
-
-**!!! TODO !!!: COMPLETER LES INFOS DE L'ARTICLE**
 
 ```
   @article{
