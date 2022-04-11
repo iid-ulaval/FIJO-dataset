@@ -1,6 +1,8 @@
 # French Insurance Job Offer dataset
 
-This repository references the raw and annotated insurance job offer data presented in **!!! TODO !!!: CITER L'ARTICLE**. The data is available [here](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/CHUEJM).
+This repository references the raw and annotated insurance job offer data presented in [“FIJO”: a French Insurance Soft Skill Detection Dataset](URL).
+
+The data is available for download [here](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/CHUEJM).
 
 ## About the dataset
 
@@ -13,14 +15,18 @@ This dataset is distributed under license CC BY-SA-NC 4.0
 ## Cite this dataset
 
 ```
-  @article{
-  title = {“FIJO”: a French Insurance Soft Skill Detection Dataset},
-  author = {Beauchemin, David and Laumonier, Julien and Le Ster, Yvan and Yassine, Marouane},
-  journal = {Proceedings of the Canadian Conference on Artificial Intelligence},
-  publisher = {Canadian Artificial Intelligence Association (CAIAC)},
-  year = {2022},
-  }
+  @data{SP3/CHUEJM_2022,
+    author = {Laumonier, Julien and Beauchemin, David and Yassine, Maourane and Le Ster, Yvan},
+    publisher = {Scholars Portal Dataverse},
+    title = {{Offres d'emploi et compétences du milieu de l'assurance}},
+    UNF = {UNF:6:Wsff9+gA09MfElndjlRLNw==},
+    year = {2022},
+    version = {V1},
+    doi = {10.5683/SP3/CHUEJM},
+    url = {https://doi.org/10.5683/SP3/CHUEJM}
+    }
 ```
+
 ## Metadata
 
 The following table is necessary for this dataset to be indexed by search
@@ -41,8 +47,12 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     <td><code itemprop="alternateName">FIJO-dataset</code></td>
   </tr>
   <tr>
+    <td>alternateName</td>
+    <td><code itemprop="alternateName">Offres d'emploi et compétences du milieu de l'assurance</code></td>
+  </tr>
+  <tr>
     <td>url</td>
-    <td><code itemprop="url">https://github.com/iid-ulaval/FIJO-dataset</code></td>
+    <td><code itemprop="url">https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/CHUEJM</code></td>
   </tr>
   <tr>
     <td>description</td>
@@ -77,10 +87,6 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
               <tr>
                 <td>name</td>
                 <td><code itemprop="name">Yvan Le Ster</code></td>
-              </tr>
-              <tr>
-                <td>sameAs</td>
-                <td><code itemprop="sameAs"></code></td>
               </tr>
               <tr>
                 <td>name</td>
@@ -138,7 +144,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
     <tr>
     <td>citation</td>
-    <td><code itemprop="citation"></code></td>
+    <td><code itemprop="citation">https://doi.org/10.5683/SP3/CHUEJM</code></td>
   </tr>
 </table>
 </div>
