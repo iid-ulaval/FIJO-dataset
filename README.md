@@ -1,6 +1,6 @@
 # French Insurance Job Offer dataset
 
-This repository references the raw and annotated insurance job offer data presented in [“FIJO”: a French Insurance Soft Skill Detection Dataset](URL).
+This repository references the raw and annotated insurance job offer data presented in ["FIJO": a French Insurance Soft Skill Detection Dataset](https://arxiv.org/abs/2204.05208).
 
 The data is available for download [here](https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP3/CHUEJM).
 
